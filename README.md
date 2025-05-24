@@ -19,10 +19,6 @@ Tasks are stored in **localStorage**, and the app uses **Context API** for globa
 - **Context API**
 - **localStorage**
 
-## 📸 Preview
-
-![App Screenshot](link-do-screenshotu-jeśli-chcesz)
-
 ## 🚀 Getting Started
 
 ### Prerequisites
